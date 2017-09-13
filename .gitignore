@@ -1,0 +1,5 @@
+data/
+word2vec/
+submission.csv
+venv/
+.ipynb_checkpoints/
